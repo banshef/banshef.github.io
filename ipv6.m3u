@@ -138,7 +138,7 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-id="中国教育3台" tvg-name="中国教育3台" tvg-logo="https://live.fanmingming.com/tv/CETV3.png" group-title="卫视频道",CETV-3
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="地方频道",上海新闻
-https://volc-stream.kksmg.com/live/xwzh/index.m3u8?volcSecret=21dbc33806f0fde1b8425aefc6c1a9e3&volcTime=1706614129
+https://volc-stream.kksmg.com/live/xwzh/index.m3u8?volcSecret=0e8821749d95fb80f0939fbadfe26162&volcTime=1706703602
 #EXTINF:-1 tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="地方频道",上海新闻
 https://volc-stream.kksmg.com/live/xwzh/index.m3u8?volcSecret=8a94df820092cdc3a9088ed28c0d13f7&volcTime=1706702574
 #EXTINF:-1 tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="地方频道",上海新闻
