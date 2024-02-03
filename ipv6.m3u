@@ -138,13 +138,13 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-id="中国教育3台" tvg-name="中国教育3台" tvg-logo="https://live.fanmingming.com/tv/CETV3.png" group-title="卫视频道",CETV-3
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="地方频道",上海新闻
-https://volc-stream.kksmg.com/live/xwzh/index.m3u8?volcSecret=50b9b1dd5e08aeae0852c577a23fc8a5&volcTime=1706938557
+https://volc-stream.kksmg.com/live/xwzh/index.m3u8?volcSecret=f752d6264f3f75c6714a5d2d73e17493&volcTime=1707033939
 #EXTINF:-1 tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="地方频道",上海新闻
-https://volc-stream.kksmg.com/live/xwzh/index.m3u8?volcSecret=8a94df820092cdc3a9088ed28c0d13f7&volcTime=1706702574
+https://volc-stream.kksmg.com/live/xwzh/index.m3u8?volcSecret=66b3edc9072d0ca006d1b674e6aa62ae&volcTime=1707033968
 #EXTINF:-1 tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="地方频道",上海新闻
-https://volc-stream.kksmg.com/live/xwzh/index.m3u8?volcSecret=bc3421d0f2b1c4420613d3227c1f81bd&volcTime=1706927065
+https://volc-stream.kksmg.com/live/xwzh/index.m3u8?volcSecret=05ae113150d5751566b63f5b71e0d5ef&volcTime=1707034032
 #EXTINF:-1 tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="地方频道",上海新闻
-https://volc-stream.kksmg.com/live/xwzh/index.m3u8?volcSecret=bc120d41bf1c544a1ad1505fa0669c64&volcTime=1706926356
+https://volc-stream.kksmg.com/live/xwzh/index.m3u8?volcSecret=d53b941f0bff5c100d7884aad83f3a7d&volcTime=1707034001
 #EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="卫视频道",第一财经
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226966/1.m3u8
 #EXTINF:-1 tvg-id="全纪实" tvg-name="全纪实" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="卫视频道",乐游频道
