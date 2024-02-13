@@ -138,13 +138,13 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-id="中国教育3台" tvg-name="中国教育3台" tvg-logo="https://live.fanmingming.com/tv/CETV3.png" group-title="卫视频道",CETV-3
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="地方频道",上海新闻
-https://volc-stream.kksmg.com/live/xwzh/index.m3u8?volcSecret=e8e6820939e5a5563b42bf2922bfa943&volcTime=1707830158
+https://volc-stream.kksmg.com/live/xwzh/index.m3u8?volcSecret=4e48968d697fe2866e9080c63dff252d&volcTime=1707905781
 #EXTINF:-1 tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="地方频道",上海新闻
 https://volc-stream.kksmg.com/live/xwzh/index.m3u8?volcSecret=5ebe1e2201df637440c0ec733c668ddc&volcTime=1707830434
 #EXTINF:-1 tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="地方频道",上海新闻
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225499/1.m3u8
 #EXTINF:-1 tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="地方频道",上海新闻
-https://volc-stream.kksmg.com/live/xwzh/index.m3u8?volcSecret=6cb152a714c1349bb0e9e254982812c3&volcTime=1707830058
+https://volc-stream.kksmg.com/live/xwzh/index.m3u8?volcSecret=37cb442ceea9c4f270bdad22e7c9a7ae&volcTime=1707905860
 #EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="卫视频道",第一财经
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226966/1.m3u8
 #EXTINF:-1 tvg-id="全纪实" tvg-name="全纪实" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="卫视频道",乐游频道
