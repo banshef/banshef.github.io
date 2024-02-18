@@ -142,7 +142,7 @@ https://volc-stream.kksmg.com/live/xwzh/index.m3u8?volcSecret=e7d8d4599d359224fe
 #EXTINF:-1 tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="地方频道",上海新闻
 https://volc-stream.kksmg.com/live/xwzh/index.m3u8?volcSecret=5ebe1e2201df637440c0ec733c668ddc&volcTime=1707830434
 #EXTINF:-1 tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="地方频道",上海新闻
-http://111.40.196.36:443/PLTV/88888888/224/3221225499/1.m3u8
+http://101.224.39.54:9901/tsfile/live/1000_1.m3u8?
 #EXTINF:-1 tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="地方频道",上海新闻
 https://volc-stream.kksmg.com/live/xwzh/index.m3u8?volcSecret=37cb442ceea9c4f270bdad22e7c9a7ae&volcTime=1707905860
 #EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="卫视频道",第一财经
